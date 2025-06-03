@@ -1,62 +1,61 @@
 # 📥 Instacollector
 
-**Instacollector** is a powerful and flexible tool for downloading media content from **Instagram**. It supports the extraction of **profile pictures**, **Reels**, **carousel posts**, **videos**, and **single-image posts** — all with a clean, automated flow. Whether you're building a media archiver, automating workflows, or just saving your favorite content, **Instacollector** gets the job done.
+O **Instacollector** é uma ferramenta poderosa e flexível para baixar conteúdo de mídia do **Instagram**. Ele suporta a extração de **fotos de perfil**, **Reels**, **postagens em carrossel**, **vídeos** e **postagens com uma única imagem** — tudo com um fluxo limpo e automatizado. Seja para criar um arquivador de mídia, automatizar fluxos de trabalho ou apenas salvar seu conteúdo favorito, o **Instacollector** dá conta do recado.
 
 ---
 
-## 🔍 Features
+## 🔍 Recursos
 
-- ✅ Download **Instagram profile pictures** in high resolution  
-- ✅ Extract **Reels** and **video posts** with audio  
-- ✅ Capture **carousel posts** with multiple images/videos  
-- ✅ Detect media type automatically (post, reel, carousel, etc.)  
-- ✅ Save media locally with organized filenames  
-- ✅ Modular, extensible structure for integration with APIs and UIs
-
----
-
-## 🚀 Why Instacollector?
-
-**Instacollector** is ideal for:
-
-- 🔄 Automating Instagram media downloads  
-- 🎯 Building bots, scripts, and pipelines  
-- 📦 Creating content backups  
-- 🧠 Integrating with AI-based curators or media managers
+- ✅ Baixe **fotos de perfil do Instagram** em alta resolução
+- ✅ Extraia **postagens em Reels** e **vídeos** com áudio
+- ✅ Capture **postagens em carrossel** com múltiplas imagens/vídeos
+- ✅ Detecte o tipo de mídia automaticamente (postagem, reels, carrossel, etc.)
+- ✅ Salve a mídia localmente com nomes de arquivo organizados
+- ✅ Estrutura modular e extensível para integração com APIs e UIs
 
 ---
 
-## 📈 SEO Keywords (Search Tags)
+## 🚀 Por que o Instacollector?
+
+**Instacollector** é ideal para:
+
+- 🔄 Automatizar downloads de mídia do Instagram
+- 🎯 Construir bots, scripts e pipelines
+- 📦 Criar backups de conteúdo
+- 🧠 Integrar com curadores ou gerentes de mídia baseados em IA
+
+---
+
+## 📈 Palavras-chave de SEO (Tags de Pesquisa)
 
 ```
-instagram downloader, instagram scraper, instagram media extractor, download instagram reels, download instagram videos, save instagram images, profile picture downloader, reel downloader, carousel downloader, insta content fetcher, ig media downloader
+baixador do Instagram, scraper do Instagram, extrator de mídia do Instagram, baixar reels do Instagram, baixar vídeos do Instagram, salvar imagens do Instagram, baixar fotos de perfil, baixar reels, baixar carrossel, buscar conteúdo do Instagram, baixar mídia do Instagram
 ```
 
-> These keywords help developers and users discover this tool on GitHub and via search engines.
+> Essas palavras-chave ajudam desenvolvedores e usuários a descobrir esta ferramenta no GitHub e por meio de mecanismos de busca.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologias Utilizadas
 
-- Python  
-- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) – for downloading videos and reels  
-- [`instaloader`](https://github.com/instaloader/instaloader) – for profile pictures and post data  
-- Custom media parser and handler
--API > FastApi
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+- Python
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) – para baixar vídeos e reels
+- [`instaloader`](https://github.com/instaloader/instaloader) – para fotos de perfil e dados de postagens
+- Analisador e manipulador de mídia personalizados
+- API > FastApi
 
 ---
 
+## 📄 Licença
 
-## 📬 Contact
-
-If you are interested in purchasing the plugin or API that performs the entire process, please contact us via email: jcdevinho@outlook.com or via WhatsApp:+5585999340417
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-**Instacollector** – Your go-to solution for downloading anything from Instagram, with clean code and reliable performance.
+## 📬 Contato
+
+Se você tiver interesse em adquirir o plugin ou a API que realiza todo o processo, entre em contato conosco pelo e-mail jcdevinho@outlook.com ou pelo WhatsApp: +5585999340417
+
+---
+
+**Instacollector** – Sua solução ideal para baixar qualquer coisa do Instagram, com código limpo e desempenho confiável.
